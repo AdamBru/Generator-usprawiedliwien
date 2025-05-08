@@ -17,7 +17,7 @@ Wygenerowane zdanie ma dużą szansę mieć sens i przypomina prawdziwe usprawie
 
 ## Przykład:
 
-<img width="860" src="" alt="Przykład">
+<img width="860" src="https://github.com/AdamBru/Generator-usprawiedliwien/blob/main/example.jpeg" alt="Przykład">
 
 ## 🧑‍💻 Autor
 
