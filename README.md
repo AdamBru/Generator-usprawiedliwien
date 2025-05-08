@@ -2,6 +2,8 @@
 
 Projekt hobbystyczny napisany w JavaScript, który losowo generuje usprawiedliwienia nieobecności na lekcji.
 
+Wypróbuj: [Generator usprawiedliwień](https://adambru.github.io/Generator-usprawiedliwien/)
+
 ## 🎯 Cel projektu
 
 Celem tego projektu jest:
