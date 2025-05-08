@@ -1,4 +1,4 @@
-# 📄 Generator Usprawiedliwień
+# 📄 Generator usprawiedliwień
 
 Projekt hobbystyczny napisany w JavaScript, który losowo generuje usprawiedliwienia nieobecności na lekcji.
 
