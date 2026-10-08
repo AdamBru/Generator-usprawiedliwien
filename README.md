@@ -24,7 +24,7 @@ Wygenerowane zdanie ma dużą szansę mieć sens i przypomina prawdziwe usprawie
 ## 🧑‍💻 Autor
 
 *   AdamBru
-*   Vibe Coder since 2025
+*   V 2025
 
 ---
 
